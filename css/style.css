@@ -167,4 +167,6 @@ footer {
     color: #5F6368;
     border: none;
   }
-  
+  .btn:hover {
+    color: #5F6368;
+  }
