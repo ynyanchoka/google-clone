@@ -162,3 +162,9 @@ footer {
     float: right;
     padding-right: 0;
   }
+  .btn{
+    font-size: 13px;
+    color: #5F6368;
+    border: none;
+  }
+  
